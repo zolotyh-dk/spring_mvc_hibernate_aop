@@ -1,4 +1,4 @@
-# CRUD с использование Spring MVC, Hibernate, AOP
+# CRUD с использованием Spring MVC, Hibernate, AOP
 
 Учебное web приложение позволяющее совершать основные CRUD операции
 
